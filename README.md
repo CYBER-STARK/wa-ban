@@ -13,6 +13,8 @@ Tool for baning whatsapp numbers
 
 $ cd wa-ban
 
+$ bash setup.sh
+
 $ python wa-ban.py
 
 Enjoy the tool !
