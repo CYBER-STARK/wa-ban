@@ -1,4 +1,4 @@
-# wa-ban
+#WHATSAPP BANNER
 Tool for baning whatsapp numbers
 
 Use this on own risk!
@@ -13,7 +13,7 @@ $ cd wa-ban
 $ python wa-ban.py
 
 Enjoy the tool !
-# IAM NOT RESPONSIBILE FOR THE AFTER EFFECT OF THIS TOOL😂🤞🏻
+# IAM NOT RESPONSIBILE FOR THE AFTER EFFECT OF THIS TOOL
 
 # USE IN YOUR OWN RISK
   
