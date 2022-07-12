@@ -16,7 +16,7 @@ $ cd wa-ban
 $ python wa-ban.py
 
 Enjoy the tool !
-# IAM NOT RESPONSIBILE FOR THE AFTER EFFECT OF THIS TOOL
+
 
 # USE IN YOUR OWN RISK
   
